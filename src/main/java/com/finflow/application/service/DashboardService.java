@@ -62,3 +62,4 @@ public class DashboardService {
         return new DashboardSummaryResponse(totalIncome, totalExpense, netBalance, categoryItems);
     }
 }
+

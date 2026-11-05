@@ -34,3 +34,4 @@ public record CreateTransferRequest(
     @Schema(description = "Descrição da transferência", example = "Transferência para Reserva de Emergência")
     String description
 ) {}
+

@@ -5,3 +5,4 @@ public class DuplicateTransactionException extends BusinessException {
         super("Transação duplicada detectada para a chave de idempotência: " + idempotencyKey);
     }
 }
+

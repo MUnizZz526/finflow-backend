@@ -27,3 +27,4 @@ public record DashboardSummaryResponse(
         Double percentage
     ) implements Serializable {}
 }
+

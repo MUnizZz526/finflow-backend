@@ -38,3 +38,4 @@ public record CreateTransactionRequest(
     @Schema(description = "Descrição detalhada do gasto ou ganho", example = "Supermercado Semanal")
     String description
 ) {}
+
