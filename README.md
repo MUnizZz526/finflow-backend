@@ -50,3 +50,4 @@ docker compose up -d
 
 Acesse a documentação interativa da API no navegador:
 👉 `http://localhost:8080/swagger-ui.html`
+
