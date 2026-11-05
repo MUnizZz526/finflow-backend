@@ -76,3 +76,4 @@ class DashboardServiceTest {
         assertThat(summary.categorySpending().get(1).percentage()).isEqualTo(25.0);
     }
 }
+

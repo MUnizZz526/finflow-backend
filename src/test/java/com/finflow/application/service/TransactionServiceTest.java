@@ -234,3 +234,4 @@ class TransactionServiceTest {
             .hasMessage("Conta não encontrada ou não pertence ao usuário.");
     }
 }
+
